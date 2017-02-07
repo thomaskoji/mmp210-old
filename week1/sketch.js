@@ -22,5 +22,4 @@ function setup() {
     stroke("#bb0043");
     strokeWeight(4);
     rect(125, 180, 550, 60 ,10);
-    ark(125, 180,
 }
